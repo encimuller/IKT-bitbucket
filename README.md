@@ -1,4 +1,4 @@
-# Müller_EnikŐ
+# Müller_Enikő
 Bitbucket projekt feladat
 Projekt feladat
 1., Készítsen egy lokális repo-t git segítségével
