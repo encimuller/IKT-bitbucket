@@ -1,4 +1,4 @@
-# IKT-bitbucket
+# Müller_EnikŐ
 Bitbucket projekt feladat
 Projekt feladat
 1., Készítsen egy lokális repo-t git segítségével
